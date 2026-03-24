@@ -27,7 +27,6 @@ ARGO floats are autonomous instruments that collect critical ocean data such as 
 ├── db/                        # Database storage for datasets
 ├── docs/                      # Project documentation and design notes
 ├── nlp/                       # Natural Language Processing modules
-├── notebooks/                 # Experiment notebooks, visualization, EDA
 ├── ocean-dashboard/src/       # Web dashboard code
 ├── scripts/                   # Helper scripts for data pipeline
 ├── streamlit_app/             # Chat or visualization UI
