@@ -1,5 +1,5 @@
 ﻿
-#  FloatChat — AI Conversational System for ARGO Float Data (SIH 2025)
+#  FloatChat — AI Conversational System for ARGO Floa  t Data (SIH 2025)
 
 FloatChat is an **AI-driven conversational interface** designed to interact with, explore, and extract insights from **oceanographic ARGO float datasets**.
 It is developed as part of the **Smart India Hackathon (SIH) 2025** ecosystem and includes backend APIs, data processing, visualization dashboards, and a user-friendly chat interface for scientific and research use.
